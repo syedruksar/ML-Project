@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 # Models Used
-•	Random Forest
-•	K Nearest Neighbors(KNN)
++ Random Forest
++ K Nearest Neighbors(KNN)
 •	Support Vector Machine (SVM)
 •	Gradient Boosting
 # Techniques
