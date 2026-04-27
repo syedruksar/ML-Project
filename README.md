@@ -16,8 +16,8 @@
 # Dataset
 Telco Customer Churn.csv
 # Authors
-Ruksar Syed
-Balanjani Janjanam
++ Ruksar Syed
++ Balanjani Janjanam
 
 
 
